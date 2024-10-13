@@ -1,8 +1,8 @@
-Python for Data Science Class 1
-This main branch contains the homework for Class one, in which we practice Python programming basics.
-It covers fundamental topics such as printing outputs, working with variables, lists, functions, tuples, sets, and loops. 
+Python for Data Science Class 1 \n
+This main branch contains the homework for Class one, in which we practice Python programming basics.\n
+It covers fundamental topics such as printing outputs, working with variables, lists, functions, tuples, sets, and loops. \n
 
-Exercise 1: Print a Greeting
+Exercise 1: Print a Greeting\n
 Exercise 2: Basic Arithmetic
 Exercise 3: String Manipulation
 Exercise 4: Lists
