@@ -1,4 +1,4 @@
-# Python for Data Science Class 1
+# Python for Data Science Class 3
 
 This Assignment3 branch contains the notes and homework for Class three, in which we introduce and practice Object-Oriented Programming (OOP) in Python through a hands-on course registration system. The exercises explore concepts like classes, methods, encapsulation, and inheritance. In the exercises, we are trying to create a restration system for student and courses. 
 
