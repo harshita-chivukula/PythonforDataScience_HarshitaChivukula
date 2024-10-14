@@ -10,6 +10,9 @@ Furthermore, we practice the use of github: commit, push, pull, add, adding bran
 3.	Exercise 3: To-Do List
 4.	Exercise 4: Celsius to Fahrenheit Converter
 
+## Questions: 
+- I don't understand how to use Github desktop and how to connect my local files to github desktop. I keep adding files to github. How can I optimize this process?
+
 ## Requirements
 
 To run these exercises, you need Python 3.10 installed. You can clone the repository and run the notebook using Jupyter Notebook or VS Code.
