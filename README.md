@@ -1,4 +1,4 @@
-# Python for Data Science Class 3=5
+# Python for Data Science Class 5
 
 This branch contains the notes and homework for Class 5, focusing on using essential Python libraries for data processing, file management, and scientific computing. In this session, we use libraries such as Numpy, Scipy, Math, os, glob, and shutil to manage and analyze annotation files based on a structured naming convention. Some more details on the libraries are:
   1.	Numpy - For numerical operations and array manipulation.
