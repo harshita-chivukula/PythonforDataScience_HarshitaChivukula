@@ -1,6 +1,6 @@
 # Python for Data Science 
 
-This main branch contains infomration on the Class contents. The assignments are in their respective branches. 
+This main branch contains information on the Class contents. The assignments are in their respective branches. The status of each exercise is also reported here.
 
 ## Classes
 
