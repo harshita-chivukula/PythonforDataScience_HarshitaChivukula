@@ -1,4 +1,6 @@
-This folder contains the homework for Class one, in which we practice Python programming basics. It covers fundamental topics such as printing outputs, working with variables, lists, functions, tuples, sets, and loops.
+# Python for Data Science Class 1
+
+This folder contains the homework for Class 1, in which we practice Python programming basics. It covers fundamental topics such as printing outputs, working with variables, lists, functions, tuples, sets, and loops.
 
 ## Exercises
 
