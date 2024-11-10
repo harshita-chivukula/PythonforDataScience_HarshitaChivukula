@@ -2,8 +2,8 @@
 
 This branch contains the notes and homework for Class 5, focusing on using essential Python libraries for data processing, file management, and scientific computing. In this session, we use libraries such as Numpy, Scipy, Math, os, glob, and shutil to manage and analyze annotation files based on a structured naming convention. Some more details on the libraries are:
   1.	Numpy - For numerical operations and array manipulation.
-	2.	Scipy - For advanced scientific computing tasks.
-	3.	Math, os, glob, and shutil - Utilities for mathematical calculations, file system operations, and file management.
+  2.	Scipy - For advanced scientific computing tasks.
+  3.	Math, os, glob, and shutil - Utilities for mathematical calculations, file system operations, and file management.
 
 ## Exercises: Reusing the same annotations we worked with in the previous session
 
