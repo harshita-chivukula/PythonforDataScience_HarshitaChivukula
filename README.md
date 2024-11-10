@@ -60,7 +60,7 @@ This repository contains notes, materials, and exercises for the **Python for Da
 
 ## Instructions for Executing the Code
 
-  Environment Setup**: Ensure Python 3.10 is installed along with necessary packages like Pandas, Numpy, Scipy, and Matplotlib:
+  Environment Setup: Ensure Python 3.10 is installed along with necessary packages like Pandas, Numpy, Scipy, and Matplotlib:
      pip install pandas numpy scipy matplotlib
 
 ## Author
