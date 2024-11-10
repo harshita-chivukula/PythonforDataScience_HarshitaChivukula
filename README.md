@@ -54,9 +54,9 @@ This repository contains notes, materials, and exercises for the **Python for Da
        - **Netflix**: Identify missing ratings, count films by country, and find the year with the most releases.
        - **Titanic**: Calculate survival percentages by gender and class.
 
-### 7. **Class 7: *PENDING*
-### 8. **Class 8: *PENDING*
-### 9. **Class 9: *PENDING*
+### 7. Class 7: *PENDING*
+### 8. Class 8: *PENDING*
+### 9. Class 9: *PENDING*
 
 ## Instructions for Executing the Code
 
