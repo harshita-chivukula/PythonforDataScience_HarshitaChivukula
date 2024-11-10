@@ -1,4 +1,4 @@
-# Python for Data Science Class: Pandas and Data Exploration
+# Python for Data Science Class 6
 
 This branch contains the notes and exercises for the class focused on using **Pandas** for data loading, exploration, and preprocessing. The session covers essential techniques for working with datasets, including cleaning and preparing data for analysis.
 
