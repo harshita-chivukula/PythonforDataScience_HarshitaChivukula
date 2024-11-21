@@ -54,7 +54,7 @@ This repository contains notes, materials, and exercises for the **Python for Da
        - **Netflix**: Identify missing ratings, count films by country, and find the year with the most releases.
        - **Titanic**: Calculate survival percentages by gender and class.
 
-### 7. Class 7: Datasets Pandas II  (13/11/24) - *Exercises DONE*
+### 7. **Class 7: Datasets Pandas II**  (13/11/24) - *Exercises DONE*
    - **Objective**: Deepen understanding of data manipulation using Pandas, with a focus on advanced transformations, handling missing data, and creating reusable workflows.
    - **Topics**: Lambda and map functions, advanced data manipulation, handling missing data, and transformations.
    - **Exercises**:
@@ -72,7 +72,20 @@ This repository contains notes, materials, and exercises for the **Python for Da
        - Drop rows where the `professor` column is missing.
        - Create a new column, `professor_last_name`, by extracting the last name from the `professor` column.
        
-### 8. Class 8: *PENDING*
+### 8. **Class 8: Matplotlib and Seaborn – Data Visualization** (20/11/24) - *Exercises DONE*
+   - **Objective**: Introduce data visualization using Matplotlib and Seaborn, focusing on advanced plotting techniques and customization.
+   - **Topics**: Matplotlib and Seaborn integration, exploratory data visualization, and plot styling.
+   - **Exercises**:
+     - **Matplotlib**:
+       - Plot the number of students in the top 5 universities for Executive Education (2024), using university colors and adding title, xlabel, ylabel, and legend.
+     - **Seaborn**:
+       - Lineplot: Study Time by Student Name, identifying the highest study time.
+       - Histplot: Grade distribution, determining the most frequent grade range.
+       - ECDF Plot: Percentage of students scoring less than 85.
+       - Stripplot: Grade distribution by Course, finding the course with the most spread.
+       - Swarmplot: Study Time by Gender, identifying the gender with higher average study time.
+       - Pointplot: Average Grade by Course, finding the course with the highest average grade.
+
 ### 9. Class 9: *PENDING*
 
 ## Instructions for Executing the Code
