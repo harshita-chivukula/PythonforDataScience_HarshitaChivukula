@@ -54,7 +54,7 @@ This repository contains notes, materials, and exercises for the **Python for Da
        - **Netflix**: Identify missing ratings, count films by country, and find the year with the most releases.
        - **Titanic**: Calculate survival percentages by gender and class.
 
-### 7. Class 7: Datasets Pandas II  (13/11/24) - Exercises DONE
+### 7. Class 7: Datasets Pandas II  (13/11/24) - *Exercises DONE*
    - **Objective**: Deepen understanding of data manipulation using Pandas, with a focus on advanced transformations, handling missing data, and creating reusable workflows.
    - **Topics**: Lambda and map functions, advanced data manipulation, handling missing data, and transformations.
    - **Exercises**:
