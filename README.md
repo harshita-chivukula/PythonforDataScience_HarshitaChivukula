@@ -54,7 +54,24 @@ This repository contains notes, materials, and exercises for the **Python for Da
        - **Netflix**: Identify missing ratings, count films by country, and find the year with the most releases.
        - **Titanic**: Calculate survival percentages by gender and class.
 
-### 7. Class 7: *PENDING*
+### 7. Class 7: Datasets Pandas II  (13/11/24) - Exercises DONE
+   - **Objective**: Deepen understanding of data manipulation using Pandas, with a focus on advanced transformations, handling missing data, and creating reusable workflows.
+   - **Topics**: Lambda and map functions, advanced data manipulation, handling missing data, and transformations.
+   - **Exercises**:
+     - **Advanced Data Manipulation**:
+       - Use a **lambda** function to classify flowers by petal length (`short` for less than 3 cm, `long` otherwise).
+       - Map the `Species` column to numeric values (`Iris-setosa`: 0, `Iris-versicolor`: 1, `Iris-virginica`: 2).
+       - Count occurrences in the `Species` column using `value_counts`.
+       - Remove duplicate rows based on `SepalLengthCm` and `PetalLengthCm`.
+       - Convert `SepalLengthCm` to a string, then back to a float, handling errors gracefully.
+       - Save the modified dataset to a CSV file with the index included.
+     - **Handling Missing Data and Transformations**:
+       - Count missing values in each column.
+       - Replace missing values in the `department` column with `"Unknown"`.
+       - Fill missing `age` values with the column's average.
+       - Drop rows where the `professor` column is missing.
+       - Create a new column, `professor_last_name`, by extracting the last name from the `professor` column.
+       
 ### 8. Class 8: *PENDING*
 ### 9. Class 9: *PENDING*
 
