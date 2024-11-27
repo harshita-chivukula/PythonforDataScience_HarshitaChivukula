@@ -86,7 +86,7 @@ This repository contains notes, materials, and exercises for the **Python for Da
        - Swarmplot: Study Time by Gender, identifying the gender with higher average study time.
        - Pointplot: Average Grade by Course, finding the course with the highest average grade.
 
-### 9. Class 9: *PENDING*
+### 9. **Class 9: Other Data Types** (27/11/24) - *Exercises PENDING*
 
 ## Instructions for Executing the Code
 
