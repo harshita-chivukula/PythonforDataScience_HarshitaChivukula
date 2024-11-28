@@ -86,7 +86,7 @@ This repository contains notes, materials, and exercises for the **Python for Da
        - Swarmplot: Study Time by Gender, identifying the gender with higher average study time.
        - Pointplot: Average Grade by Course, finding the course with the highest average grade.
 
-### 9. **Class 9: Image Manipulation and Processing** (06/25/24) - *DONE*
+### 9. **Class 9: Image Manipulation and Processing** (27/11/24) - *DONE*
    - **Objective**: Introduce image manipulation and processing techniques using PIL, OpenCV, Scikit-image, and Kornia.
    - **Topics**: Image handling (PIL, OpenCV), applying basic algorithms (Scikit-image, Kornia).
    - **Exercises**:
