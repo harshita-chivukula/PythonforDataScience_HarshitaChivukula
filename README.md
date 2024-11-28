@@ -86,7 +86,13 @@ This repository contains notes, materials, and exercises for the **Python for Da
        - Swarmplot: Study Time by Gender, identifying the gender with higher average study time.
        - Pointplot: Average Grade by Course, finding the course with the highest average grade.
 
-### 9. **Class 9: Other Data Types** (27/11/24) - *Exercises PENDING*
+### 9. **Class 9: Image Manipulation and Processing** (06/25/24) - *DONE*
+   - **Objective**: Introduce image manipulation and processing techniques using PIL, OpenCV, Scikit-image, and Kornia.
+   - **Topics**: Image handling (PIL, OpenCV), applying basic algorithms (Scikit-image, Kornia).
+   - **Exercises**:
+     - Load and preprocess an image of coins (grayscale conversion, thresholding).
+     - Count the number of coins using image segmentation techniques.
+     - Highlight segmented coins with bounding boxes or contours.
 
 ## Instructions for Executing the Code
 
